@@ -24,4 +24,9 @@ print_r($row["VERSION()"]);
 	print_r($row["VERSION()"]);
 	print_r($row["VERSION()"]);
 	print_r($row["VERSION()"]);
+print_r($row["VERSION()"]);
+print_r($row["VERSION()"]);
+print_r($row["VERSION()"]);
+print_r($row["VERSION()"]);
+print_r($row["VERSION()"]);	
 ?>
