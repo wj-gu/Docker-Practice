@@ -13,4 +13,5 @@
     $result = mysqli_query($conn, $sql);
     $row = mysqli_fetch_array($result);
     print_r($row["VERSION()"]);
+    print_r($row["VERSION()"]);
 ?>
